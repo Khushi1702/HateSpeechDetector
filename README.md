@@ -1,4 +1,5 @@
 # HateSpeechDetector
+A machine learning project aimed at detecting hate speech in Instagram reels and comments using Natural Language Processing (NLP) and various classification algorithms like SVM, Logistic Regression, and Decision Trees.
 
 ## Overview
 HateSpeechDetector is a comprehensive project designed to detect hate speech within Instagram reels and comments. Utilizing advanced Natural Language Processing (NLP) techniques and machine learning algorithms, this project aims to create an effective tool for identifying and mitigating hate speech on social media platforms.
